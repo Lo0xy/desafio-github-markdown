@@ -31,7 +31,7 @@ Essa Segunda Etapa também envolve interação com um segundo usuário, onde o m
 
 <img src="https://64.media.tumblr.com/9478f4d9aa0e2c79868ca860f59f71dc/eecc3c3d1003c47c-90/s540x810/c543a382b5be76809a9d9e95f077f0ae14bd0a4c.gif" alt="Gif Anime" width="300px"/> 
 
-<img src="https://media.tenor.com/WdsHzXaX3XIAAAAM/gachiakuta-gachiakuta-rudo.gif" alt="Gif Anime" width="300px"/> 
+
 
 
 
