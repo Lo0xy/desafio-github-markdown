@@ -27,6 +27,12 @@ Essa Segunda Etapa também envolve interação com um segundo usuário, onde o m
 <img src="https://i.pinimg.com/originals/24/f7/3e/24f73e0b038401d2324062eec4385046.gif" alt="Gif Anime" width="300px"/>
 
 
+#### Gachiakuta
+
+<img src="https://64.media.tumblr.com/9478f4d9aa0e2c79868ca860f59f71dc/eecc3c3d1003c47c-90/s540x810/c543a382b5be76809a9d9e95f077f0ae14bd0a4c.gif" alt="Gif Anime" width="300px"/>
+
+
+
 
 
 
@@ -64,10 +70,9 @@ ___negrito e italico___
 `system.out.println();`
 
 ```system.out.println();system.out.println();system.out.println();
-system.out.println();system.out.println();system.out.println();```
+system.out.println();system.out.println();system.out.println(); ```
 
 > Citações
-
 -----------------------------
 
 | Cabeçalho 1 | Cabeçalho 2 |
@@ -75,5 +80,5 @@ system.out.println();system.out.println();system.out.println();```
 |   texto 1   |   texto 2   |
 |   texto 3   |   texto 4   |
 
-- [X] Tarefa 1 <br>
+- [X] Tarefa 1 
 - [] Tarefa 2
