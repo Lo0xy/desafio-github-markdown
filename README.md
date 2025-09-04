@@ -33,3 +33,47 @@ Essa Segunda Etapa também envolve interação com um segundo usuário, onde o m
 
 ## Etapa 3. 
 Essa Etapa será para praticar markdown, escrevendo o que foi estudado em aulas anteriores.
+
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
+
+<!-- Cabeçalhos -->
+
+*italico* ou _italico_
+
+**Negrito** ou __negrito__
+
+___negrito e italico___
+
+- Lista 1
+- Lista 2
+  - Sublista
+
+1. Lista 1
+2. Lista 2
+   1. Sublista
+
+[Texto da Imagem](https://img.odcdn.com.br/wp-content/uploads/2024/10/imagem_2024-10-28_115513214-1920x1080.png) 
+
+![Imagem](https://img.odcdn.com.br/wp-content/uploads/2024/10/imagem_2024-10-28_115513214-1920x1080.png)
+
+`system.out.println();`
+
+```system.out.println();system.out.println();system.out.println();
+system.out.println();system.out.println();system.out.println();```
+
+> Citações
+
+-----------------------------
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
+|   texto 1   |   texto 2   |
+|   texto 3   |   texto 4   |
+
+- [X] Tarefa 1 <br>
+- [] Tarefa 2
